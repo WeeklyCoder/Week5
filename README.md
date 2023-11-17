@@ -8,10 +8,8 @@ Often played on a 3x3 grid, players of this game take turns marking empty square
 The rule is simple. Be the first player to get your symbol in a row.
 
 ## ✨ Variation:
-- Why be bounded by 3 x 3 grid. Can you make it so that it can be expanded?
-- Play it with a friend as a multiplayer version or with a computer in single player?
 - Allow other characters/symbols than 'O' and 'X'?
-- Alter the randomness and add difficulty mode in single player?
+- Play it with a friend as a multiplayer version or with a computer in single player?
 
 ## 💡 Where to start? (Ideas)
 It’s always Input, Process, Output.
@@ -20,7 +18,8 @@ It’s always Input, Process, Output.
 - Continue by deciding how to take input from user about where to place their symbol on the grid. Whether mouse action, keyboard action, input field, +.
 
 ## 🥨 Twists
-- What if it showed a percentage? What if it showed an estimated time? What if it fades away when loading is completed? +
+- Alter the randomness and add difficulty mode in single player?
+- Why be bounded by 3 x 3 grid. Can you make it so that it can be expanded?
 
 ## Recommended learning:
 ```- Multidimensional arrays```
